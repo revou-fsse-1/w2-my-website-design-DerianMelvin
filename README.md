@@ -10,7 +10,7 @@ This is a fictional company profile website called **CARTel**, a simple e-commer
 
 ### [Miro](https://miro.com/app/board/uXjVPuWNC5Y=/?share_link_id=971049923506) - Wireframe
 
-### [Figma](https://www.figma.com/file/XlwwlsYlHkeo1Pe0LIIfht/W2---Website-Design---Derian-Melvin?node-id=37%3A133&t=Yj2qljBWuKjt8AfW-1) - Mockup & Prototype
+### [Figma](https://www.figma.com/file/XlwwlsYlHkeo1Pe0LIIfht/W2---Website-Design---Derian-Melvin?node-id=0%3A1&t=0Y3DpQAm9triH5t1-1) - Mockup & Prototype
 
 ## Screenshots
 
